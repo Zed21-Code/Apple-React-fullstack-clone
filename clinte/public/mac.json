@@ -1,0 +1,34 @@
+{
+    "products": [
+      {
+        "product_url": "macbookair",
+        "product_img": "https://www.apple.com/v/macbook-air-13-and-15-m2/b/images/overview/routers/ar_phone_midnight__bxtwm1u1c1hy_large.jpg",
+        "product_link": "https://www.apple.com/shop/buy-mac/macbook-air",
+        "product_name": "MacBook Air",
+        "product_brief_description": "Power. It’s in the Air.",
+        "starting_price": "$999",
+        "price_range": "From $83.25/mo. or $899 with education pricing.*",
+        "product_description": "The incredibly thin and light MacBook Air is now more powerful than ever. It features a brilliant Retina display, new Magic Keyboard, Touch ID, processors with up to twice the performance, faster graphics, and double the storage capacity. The sleek wedge-shaped design is created from 100 percent recycled aluminum, making it the greenest Mac ever."
+      },
+      {
+        "product_url": "macbookpro13",
+        "product_img": "https://www.apple.com/v/macbook-air-13-and-15-m2/b/images/overview/hero/hero_static__6sbma6bp2tu6_large.jpg",
+        "product_link": "https://www.apple.com/shop/buy-mac/macbook-pro/13-inch",
+        "product_name": "MacBook Pro 13",
+        "product_brief_description": "The most powerful 13-inch MacBook Pro ever.",
+        "starting_price": "$1,299",
+        "price_range": "From $108.25/mo. or $1,199 with education pricing.*",
+        "product_description": "The new MacBook Pro delivers game-changing performance for pro users. The powerful 8-core processor, stunning Retina display with True Tone technology, Touch Bar and Touch ID, ultrafast SSD, and all-day battery life make MacBook Pro the ultimate pro notebook."
+      },
+      {
+        "product_url": "macbookpro16",
+        "product_img": "https://www.apple.com/v/macbook-air-13-and-15-m2/b/images/overview/routers/trade_in__f88qe6u6wpea_large.jpg",
+        "product_link": "https://www.apple.com/shop/buy-mac/macbook-pro/16-inch",
+        "product_name": "MacBook Pro 16",
+        "product_brief_description": "The best for the brightest.",
+        "starting_price": "$2,399",
+        "price_range": "From $199.92/mo. or $2,199 with education pricing.*",
+        "product_description": "The MacBook Pro 16 combines power, performance, and pro features. With a stunning 16-inch Retina display, ultrafast processors, next-generation graphics, the largest battery capacity ever in a MacBook Pro, a new Magic Keyboard, and massive storage, it's the ultimate pro notebook for the ultimate user."
+      }
+    ]
+  }

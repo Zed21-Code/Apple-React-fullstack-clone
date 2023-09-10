@@ -1,0 +1,28 @@
+{
+    "products": [
+      {
+        "product_url": "ipad-pro",
+        "product_name": "iPad Pro",
+        "product_img": "https://www.apple.com/v/ipad-10.9/b/images/overview/hero/hero__ecv967jz1y82_small.jpg",
+        "product_brief_description": "Supercharged by",
+        "starting_price": "$799",
+        "price_range": "From $799"
+      },
+      {
+        "product_url": "ipad-air",
+        "product_name": "iPad Air",
+        "product_img": "https://www.apple.com/v/ipad-10.9/b/images/overview/design/snap_endframe__da3oqry1mk66_large_2x.jpg",
+        "product_brief_description": "Powerful. Colorful. Wonderful.",
+        "starting_price": "$499",
+        "price_range": "From $499"
+      },
+      {
+        "product_url": "ipad",
+        "product_name": "iPad",
+        "product_img": "https://www.apple.com/v/ipad-10.9/b/images/overview/design/fan__e9709q800z6u_small.jpg",
+        "product_brief_description": "Delightfully capable. Surprisingly affordable.",
+        "starting_price": "$329",
+        "price_range": "From $329"
+      }
+    ]
+  }

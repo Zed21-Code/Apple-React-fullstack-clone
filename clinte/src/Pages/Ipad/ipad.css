@@ -1,0 +1,66 @@
+.internal-page-wrapper {
+    padding: 100px 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .title-wrapper {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .product-holder {
+    margin-bottom: 80px;
+  }
+  
+  .product-title {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .product-brief {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .starting-price {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .monthly-price {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .links-wrapper {
+    margin-top: 30px;
+  }
+  
+  .links-wrapper ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .links-wrapper ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .links-wrapper ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    color: #0070c9;
+  }
+  
+  .product-image img {
+    max-width: 100%;
+    height: auto;
+  }

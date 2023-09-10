@@ -28,16 +28,15 @@ function Products() {
     <div>
       <section className="internal-page-wrapper">
         <div className="container">
+          <br/>
+          <br/>
             <h1>{productID}</h1>
           
           {product?.map((product) => {
-
-            
-
             return (
                 <div key={product.product_url}>
                     <div className="row justify-content-center text-center">
-                        <div className="col-12 mt-5 pt-5">
+                        <div className="col-12 mt-3">
                             <div className="title-wraper font-weight-bold">
                             {product.product_name}
                             </div>

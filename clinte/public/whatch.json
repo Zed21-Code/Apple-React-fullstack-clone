@@ -1,0 +1,44 @@
+{
+    "products": [
+      {
+        "product_url": "applewatchseries7",
+        "product_img": "https://www.apple.com/v/watch/bd/images/watch-shared-compare/compare_se__b3w7lpf3fahe_small.jpg",
+        "product_link": "https://www.apple.com/shop/buy-watch/apple-watch",
+        "product_name": "Apple Watch Series 7",
+        "product_brief_description": "The future of health is on your wrist.",
+        "starting_price": "$399",
+        "price_range": "From $33.25/mo. or $379 with trade-in.",
+        "product_description": "The Apple Watch Series 7 lets you measure your blood oxygen level, take an ECG anytime, and track your sleep. It has a larger, more advanced Retina display, an enhanced charging architecture, and faster charging. With breakthrough features and a brighter always-on display, it's the ultimate device for a healthier, more active, more connected life."
+      },
+      {
+        "product_url": "applewatchse",
+        "product_img": "https://www.apple.com/v/watch/bd/images/watch-shared-compare/compare_s8__c2cff9ld4e2q_medium.jpg",
+        "product_link": "https://www.apple.com/shop/buy-watch/apple-watch/se",
+        "product_name": "Apple Watch SE",
+        "product_brief_description": "Lots to love. Less to spend.",
+        "starting_price": "$279",
+        "price_range": "From $23.29/mo. or $259 with trade-in.",
+        "product_description": "The Apple Watch SE combines the largest Apple Watch display, advanced sensors, and powerful features with exceptional value. It features a Retina display, heart rate notifications, fall detection, and built-in compass. With cellular models, you can stay connected even without your phone nearby. Get the most out of your day with the Apple Watch SE."
+      },
+      {
+        "product_url": "applewatchseries6",
+        "product_img": "https://www.apple.com/v/watch/bd/images/configure/cto/cto-case__bkilx7lckxua_small.png",
+        "product_link": "https://www.apple.com/shop/buy-watch/apple-watch/series-6",
+        "product_name": "Apple Watch Series 6",
+        "product_brief_description": "The future of health is here.",
+        "starting_price": "$399",
+        "price_range": "From $24.95/mo. or $279 with trade-in.",
+        "product_description": "The Apple Watch Series 6 lets you measure your blood oxygen level, take an ECG anytime, and track your sleep. It features a brighter always-on display, a faster S6 chip, and advanced fitness tracking capabilities. Stay connected, motivated, and healthy with the Apple Watch Series 6."
+      },
+      {
+        "product_url": "applewatchseries5",
+        "product_img": "https://www.apple.com/v/watch/bd/images/watch-shared-compare/compare_ultra__cbkn5sfvb0ya_small.jpg",
+        "product_link": "https://www.apple.com/shop/buy-watch/apple-watch/series-5",
+        "product_name": "Apple Watch Series 5",
+        "product_brief_description": "The future of smartwatches.",
+        "starting_price": "$399",
+        "price_range": "From $19.95/mo. or $199 with trade-in.",
+        "product_description": "The Apple Watch Series 5 features an always-on Retina display, so you can see the time and important information without raising your wrist. It has advanced health monitoring capabilities, including a built-in ECG and fall detection. Stay connected, informed, and in control with the Apple Watch Series 5."
+      }
+    ]
+  }

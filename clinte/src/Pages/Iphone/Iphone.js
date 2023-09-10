@@ -50,7 +50,7 @@ function Iphone() {
                 key={product.product_url}
                 className="row justify-content-center text-center product-holder h-100"
               >
-                <div className={`col-sm-12 col-md-6 my-auto order-${order1}`}>
+                <div className={`col-sm-6 col-md-6 my-auto order-${order1}`}>
                   <div className="product-title">{product.product_name}</div>
                   <div className="product-brief">{product.product_brief_description}</div>
                   <div className="starting-price">
@@ -66,7 +66,7 @@ function Iphone() {
                   </div>
                 </div>
 
-                <div className={`col-sm-12 col-md-6 order-${order2}`}>
+                <div className={`col-sm-6 col-md-6 order-${order2}`}>
                   <div className="prodict-image">
                     <img src={product.product_img} alt="" />
                   </div>
